@@ -7,5 +7,5 @@ I made this script to remove all stupid dumbfuckery nonsense from my reddit acco
 This script will ask you if you want all your comments removed in X sub.
 
 # Usage
-
+put your stuff in keys.json
 run the script.
